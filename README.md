@@ -64,12 +64,6 @@ My main focus is on web development, Android development, backend systems, Fireb
 
 **INDEVSTUDIO** is the product studio and tech brand I’m building.
 
-```txt
-IN  = Infex / Infexjay
-DEV = David
-STUDIO = Product creation, engineering, design, and innovation
-```
-
 The vision is bigger than one app.
 
 INDEVSTUDIO is being built as an ecosystem for:
@@ -317,4 +311,3 @@ I want software with identity — clean, useful, fast, and bold.
 <i>Built with vision by Infexjay under INDEVSTUDIO.</i>
 
 </div>
-```
