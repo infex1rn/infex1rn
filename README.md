@@ -1,4 +1,3 @@
-````md
 <!-- INFEX1RN GitHub Profile README -->
 
 <div align="center">
